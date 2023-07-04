@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Headout</string>
+    <string name="no_internet_connection">Keine Internetverbindung</string>
+    <string name="see_all">Alle anzeigen</string>
+    <string name="share_experience">Erfahrungen teilen</string>
+    <string name="post">Posten</string>
+    <string name="start_writing_here">Beginnen Sie hier mit dem Schreiben…</string>
+    <string name="community">Gemeinschaft</string>
+    <string name="nothing_to_show">Nichts zu zeigen…</string>
+    <string name="create_profile">Profil erstellen</string>
+    <string name="change">Ändern</string>
+    <string name="name">Name</string>
+    <string name="select_city">Stadt auswählen</string>
+    <string name="select_language">Sprache auswählen</string>
+    <string name="select_currency">Währung auswählen</string>
+    <string name="save">Speichern</string>
+    <string name="edit_profile">Profil bearbeiten</string>
+    <string name="social_network">Soziales Netzwerk</string>
+    <string name="username">Benutzername</string>
+    <string name="booking">Buchung</string>
+    <string name="total_price">Gesamtpreis</string>
+    <string name="select_date">Datum auswählen</string>
+    <string name="number_of_tickets">Anzahl der Tickets</string>
+    <string name="contact_name">Kontaktname</string>
+    <string name="contact_email">Kontakt E-Mail</string>
+    <string name="contact_phone_number">Kontakt Telefonnummer</string>
+    <string name="additional_requests">Zusätzliche Anfragen</string>
+    <string name="book_now">Jetzt buchen</string>
+    <string name="book_experience">Erlebnis buchen</string>
+    <string name="headout">Headout</string>
+    <string name="my_account">Mein Konto</string>
+    <string name="no_notifications">Keine Benachrichtigungen…</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="remove">Entfernen</string>
+    <string name="search">Suchen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="account">Konto</string>
+    <string name="headout_inc">Headout Inc</string>
+    <string name="about_us">Über uns</string>
+    <string name="help">Hilfe</string>
+    <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="terms_of_usage">Nutzungsbedingungen</string>
+    <string name="sign_out">Abmelden</string>
+    <string name="share_experience_with_community">Erlebnis mit der Gemeinschaft teilen</string>
+    <string name="loading">Laden…</string>
+
+    <string name="translate">Übersetzen</string>
+    <string name="view_original">Original anzeigen</string>
+
+    <string name="add_valid_ticket_number">Gültige Ticketnummer hinzufügen</string>
+    <string name="booking_progress">Buchung…</string>
+    <string name="booking_confirmed">Buchung bestätigt!</string>
+    <string name="booking_message">Wir freuen uns darauf, Sie zu beherbergen und ein unvergessliches Erlebnis zu gewährleisten. Wenn Sie Fragen oder besondere Anfragen haben, zögern Sie nicht, unseren Kundensupport zu kontaktieren. Haben Sie einen wunderbaren Tag!</string>
+    <string name="okay">Okay</string>
+    <string name="select_valid_date">Gültiges Datum auswählen</string>
+    <string name="enter_contact_name">Kontaktnamen eingeben</string>
+    <string name="enter_contact_email">Kontakt-E-Mail eingeben</string>
+    <string name="enter_valid_phone_number">Gültige Telefonnummer eingeben</string>
+    <string name="select_a_date">Ein Datum auswählen</string>
+
+    <string name="not_found">Nicht gefunden</string>
+    <string name="experience_saved">Erfahrung gespeichert!</string>
+
+    <string name="upcoming">Bevorstehend</string>
+    <string name="completed">Abgeschlossen</string>
+    <string name="happening_today">Heute stattfindend!</string>
+    <string name="booking_date">Buchungsdatum</string>
+    <string name="status">Status</string>
+    <string name="contact_number">Kontaktnummer</string>
+
+    <string name="no_image_selected">Kein Bild ausgewählt</string>
+    <string name="uploading">Hochladen…</string>
+    <string name="post_submitted_successfully">Beitrag erfolgreich eingereicht!</string>
+    <string name="thanks_for_sharing">Vielen Dank für das Teilen! Ihr Beitrag wird jetzt überprüft. Sobald er genehmigt wurde, wird er innerhalb der nächsten 24 Stunden für die gesamte Community sichtbar. Bleiben Sie dran!</string>
+    <string name="please_write_your_experience">Bitte schreiben Sie Ihre Erfahrung</string>
+
+    <string name="getting_info">Informationen werden abgerufen…</string>
+    <string name="failed_to_signin">Anmeldung fehlgeschlagen</string>
+    <string name="signin_error">Anmeldefehler</string>
+    <string name="error_occurred">Ein Fehler ist aufgetreten</string>
+    <string name="saving_info">Informationen werden gespeichert…</string>
+    <string name="please_enter_your_name">Bitte geben Sie Ihren Namen ein</string>
+    <string name="select_preferred_location">Bevorzugten Standort auswählen</string>
+    <string name="select_preferred_language">Bevorzugte Sprache auswählen</string>
+    <string name="select_preferred_currency">Bevorzugte Währung auswählen</string>
+
+    <string name="updates_will_reflect">Aktualisierungen werden in einiger Zeit sichtbar</string>
+    <string name="select_preferred_social_network">Bevorzugtes soziales Netzwerk auswählen</string>
+    <string name="please_enter_username">Bitte geben Sie den Benutzernamen ein</string>
+
+    <string name="my_bookings">Meine Buchungen</string>
+    <string name="saved_experiences">Gespeicherte Erlebnisse</string>
+    <string name="removed">Entfernt</string>
+
+    <string name="sign_out_dialog">Ausloggen!</string>
+    <string name="sign_out_confirmation">Sind Sie sicher, dass Sie sich abmelden möchten?</string>
+    <string name="yes">Ja</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="signing_out">Abmelden…</string>
+
+    <string name="check_internet_connection">Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es später erneut.</string>
+
+    <string name="edit">Bearbeiten</string>
+
+</resources>

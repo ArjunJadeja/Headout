@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Headout</string>
+    <string name="no_internet_connection">Нет подключения к интернету</string>
+    <string name="see_all">Посмотреть все</string>
+    <string name="share_experience">Поделиться опытом</string>
+    <string name="post">Разместить</string>
+    <string name="start_writing_here">Начните писать здесь…</string>
+    <string name="community">Сообщество</string>
+    <string name="nothing_to_show">Ничего не показывать…</string>
+    <string name="create_profile">Создать профиль</string>
+    <string name="change">Изменить</string>
+    <string name="name">Имя</string>
+    <string name="select_city">Выбрать город</string>
+    <string name="select_language">Выбрать язык</string>
+    <string name="select_currency">Выбрать валюту</string>
+    <string name="save">Сохранить</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="social_network">Социальная сеть</string>
+    <string name="username">Имя пользователя</string>
+    <string name="booking">Бронирование</string>
+    <string name="total_price">Общая цена</string>
+    <string name="select_date">Выбрать дату</string>
+    <string name="number_of_tickets">Количество билетов</string>
+    <string name="contact_name">Имя контакта</string>
+    <string name="contact_email">Контактный email</string>
+    <string name="contact_phone_number">Контактный телефон</string>
+    <string name="additional_requests">Дополнительные запросы</string>
+    <string name="book_now">Забронировать сейчас</string>
+    <string name="book_experience">Забронировать опыт</string>
+    <string name="headout">Headout</string>
+    <string name="my_account">Мой аккаунт</string>
+    <string name="no_notifications">Нет уведомлений…</string>
+    <string name="notifications">Уведомления</string>
+    <string name="remove">Удалить</string>
+    <string name="search">Поиск</string>
+    <string name="settings">Настройки</string>
+    <string name="account">Аккаунт</string>
+    <string name="headout_inc">Headout Inc</string>
+    <string name="about_us">О нас</string>
+    <string name="help">Помощь</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="terms_of_usage">Условия использования</string>
+    <string name="sign_out">Выйти</string>
+    <string name="share_experience_with_community">Поделиться опытом с сообществом</string>
+    <string name="loading">Загрузка…</string>
+
+    <string name="translate">Перевести</string>
+    <string name="view_original">Посмотреть оригинал</string>
+
+    <string name="add_valid_ticket_number">Добавить действительный номер билета</string>
+    <string name="booking_progress">Бронирование…</string>
+    <string name="booking_confirmed">Бронирование подтверждено!</string>
+    <string name="booking_message">Мы с нетерпением ждем возможности принять вас и обеспечить незабываемый опыт. Если у вас есть какие-либо вопросы или специальные запросы, пожалуйста, не стесняйтесь обращаться в нашу службу поддержки. Желаем вам прекрасного дня!</string>
+    <string name="okay">Хорошо</string>
+    <string name="select_valid_date">Выберите действительную дату</string>
+    <string name="enter_contact_name">Введите имя контакта</string>
+    <string name="enter_contact_email">Введите контактный электронный адрес</string>
+    <string name="enter_valid_phone_number">Введите действительный номер телефона</string>
+    <string name="select_a_date">Выберите дату</string>
+
+    <string name="not_found">Не найдено</string>
+    <string name="experience_saved">Опыт сохранен!</string>
+
+    <string name="upcoming">Предстоящий</string>
+    <string name="completed">Завершенный</string>
+    <string name="happening_today">Происходит сегодня!</string>
+    <string name="booking_date">Дата бронирования</string>
+    <string name="status">Статус</string>
+    <string name="contact_number">Контактный номер</string>
+
+    <string name="no_image_selected">Изображение не выбрано</string>
+    <string name="uploading">Загрузка…</string>
+    <string name="post_submitted_successfully">Пост успешно отправлен!</string>
+    <string name="thanks_for_sharing">Спасибо за ваше сообщение! Ваш пост сейчас проверяется. Как только он будет одобрен, он станет виден для всего сообщества в течение следующих 24 часов. Оставайтесь с нами!</string>
+    <string name="please_write_your_experience">Пожалуйста, опишите свой опыт</string>
+
+    <string name="getting_info">Получение информации…</string>
+    <string name="failed_to_signin">Вход не выполнен</string>
+    <string name="signin_error">Ошибка входа</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="saving_info">Сохранение информации…</string>
+    <string name="please_enter_your_name">Введите ваше имя</string>
+    <string name="select_preferred_location">Выберите предпочитаемое местоположение</string>
+    <string name="select_preferred_language">Выберите предпочитаемый язык</string>
+    <string name="select_preferred_currency">Выберите предпочитаемую валюту</string>
+
+    <string name="updates_will_reflect">Обновления будут отображены через некоторое время</string>
+    <string name="select_preferred_social_network">Выберите предпочитаемую социальную сеть</string>
+    <string name="please_enter_username">Введите имя пользователя</string>
+
+    <string name="my_bookings">Мои бронирования</string>
+    <string name="saved_experiences">Сохраненные впечатления</string>
+    <string name="removed">Удалено</string>
+
+    <string name="sign_out_dialog">Выйти!</string>
+    <string name="sign_out_confirmation">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+    <string name="signing_out">Выход…</string>
+
+    <string name="check_internet_connection">Пожалуйста, проверьте ваше интернет-соединение и попробуйте еще раз позже.</string>
+
+    <string name="edit">Редактировать</string>
+
+
+</resources>

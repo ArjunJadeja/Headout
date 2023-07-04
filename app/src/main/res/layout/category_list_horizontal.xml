@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/margin_small"
+    android:orientation="vertical">
+
+    <!-- Title for the inner RecyclerView -->
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/title_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/rubik_bold"
+        android:padding="@dimen/padding_medium"
+        android:textSize="@dimen/text_medium"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Museums" />
+
+    <!-- See all button for the inner RecyclerView -->
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/see_all_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/margin_small"
+        android:drawableRight="@drawable/ic_arrow"
+        android:drawablePadding="@dimen/padding_small"
+        android:fontFamily="@font/rubik_medium"
+        android:text="@string/see_all"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/title_textview"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/title_textview" />
+
+    <!-- Inner RecyclerView for the items -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/inner_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_little"
+        android:nestedScrollingEnabled="false"
+        android:orientation="horizontal"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title_textview"
+        tools:itemCount="8"
+        tools:listitem="@layout/experience_item_landscape" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

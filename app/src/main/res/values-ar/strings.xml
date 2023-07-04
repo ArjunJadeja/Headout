@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">هيداوت</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت</string>
+    <string name="see_all">عرض الكل</string>
+    <string name="share_experience">شارك الخبرة</string>
+    <string name="post">نشر</string>
+    <string name="start_writing_here">ابدأ الكتابة هنا…</string>
+    <string name="community">المجتمع</string>
+    <string name="nothing_to_show">لا شيء لعرضه…</string>
+    <string name="create_profile">إنشاء الملف الشخصي</string>
+    <string name="change">تغيير</string>
+    <string name="name">الاسم</string>
+    <string name="select_city">اختر المدينة</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="select_currency">اختر العملة</string>
+    <string name="save">حفظ</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="social_network">شبكة اجتماعية</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="booking">الحجز</string>
+    <string name="total_price">السعر الإجمالي</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="number_of_tickets">عدد التذاكر</string>
+    <string name="contact_name">اسم جهة الاتصال</string>
+    <string name="contact_email">البريد الإلكتروني للتواصل</string>
+    <string name="contact_phone_number">رقم هاتف الاتصال</string>
+    <string name="additional_requests">طلبات إضافية</string>
+    <string name="book_now">احجز الآن</string>
+    <string name="book_experience">احجز تجربة</string>
+    <string name="headout">هيداوت</string>
+    <string name="my_account">حسابي</string>
+    <string name="no_notifications">لا يوجد إشعارات…</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="remove">إزالة</string>
+    <string name="search">بحث</string>
+    <string name="settings">الإعدادات</string>
+    <string name="account">الحساب</string>
+    <string name="headout_inc">هيداوت إنك</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="help">مساعدة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_of_usage">شروط الاستخدام</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="share_experience_with_community">شارك التجربة مع المجتمع</string>
+    <string name="loading">جار التحميل…</string>
+
+    <string name="translate">ترجمه</string>
+    <string name="view_original">عرض الأصل</string>
+
+    <string name="add_valid_ticket_number">أضف رقم تذكرة صالح</string>
+    <string name="booking_progress">حجز…</string>
+    <string name="booking_confirmed">تم تأكيد الحجز!</string>
+    <string name="booking_message">نتطلع إلى استضافتك وضمان تجربة لا تُنسى. إذا كان لديك أي أسئلة أو طلبات خاصة، فلا تتردد في الاتصال بدعم العملاء. نتمنى لك يومًا رائعًا!</string>
+    <string name="okay">حسنا</string>
+    <string name="select_valid_date">اختر تاريخًا صالحًا</string>
+    <string name="enter_contact_name">أدخل اسم الاتصال</string>
+    <string name="enter_contact_email">أدخل البريد الإلكتروني للاتصال</string>
+    <string name="enter_valid_phone_number">أدخل رقم هاتف صالح</string>
+    <string name="select_a_date">اختر تاريخ</string>
+
+    <string name="not_found">غير موجود</string>
+    <string name="experience_saved">تم حفظ التجربة!</string>
+
+    <string name="upcoming">القادمة</string>
+    <string name="completed">مكتمل</string>
+    <string name="happening_today">يحدث اليوم!</string>
+    <string name="booking_date">تاريخ الحجز</string>
+    <string name="status">الحالة</string>
+    <string name="contact_number">رقم الاتصال</string>
+
+    <string name="no_image_selected">لم يتم اختيار صورة</string>
+    <string name="uploading">جاري الرفع…</string>
+    <string name="post_submitted_successfully">تم تقديم المنشور بنجاح!</string>
+    <string name="thanks_for_sharing">شكرًا للمشاركة! منشورك الآن قيد المراجعة. بمجرد الموافقة عليه، سيصبح ظاهرًا للمجتمع بأكمله خلال الـ24 ساعة القادمة. ترقب!</string>
+    <string name="please_write_your_experience">الرجاء كتابة تجربتك</string>
+
+    <string name="getting_info">جارٍ الحصول على المعلومات…</string>
+    <string name="failed_to_signin">فشل تسجيل الدخول</string>
+    <string name="signin_error">خطأ في تسجيل الدخول</string>
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="saving_info">جارٍ حفظ المعلومات…</string>
+    <string name="please_enter_your_name">الرجاء إدخال اسمك</string>
+    <string name="select_preferred_location">اختر الموقع المفضل</string>
+    <string name="select_preferred_language">اختر اللغة المفضلة</string>
+    <string name="select_preferred_currency">اختر العملة المفضلة</string>
+
+    <string name="updates_will_reflect">التحديثات ستظهر بعد بعض الوقت</string>
+    <string name="select_preferred_social_network">اختر الشبكة الاجتماعية المفضلة</string>
+    <string name="please_enter_username">الرجاء إدخال اسم المستخدم</string>
+
+    <string name="my_bookings">حجوزاتي</string>
+    <string name="saved_experiences">التجارب المحفوظة</string>
+    <string name="removed">تم الإزالة</string>
+
+    <string name="sign_out_dialog">تسجيل الخروج!</string>
+    <string name="sign_out_confirmation">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="cancel">إلغاء</string>
+    <string name="signing_out">جار تسجيل الخروج…</string>
+
+    <string name="check_internet_connection">يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى لاحقا.</string>
+
+    <string name="edit">تعديل</string>
+
+</resources>

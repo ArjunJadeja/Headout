@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Headout</string>
+    <string name="no_internet_connection">कोई इंटरनेट कनेक्शन नहीं</string>
+    <string name="see_all">सभी देखें</string>
+    <string name="share_experience">अनुभव साझा करें</string>
+    <string name="post">पोस्ट</string>
+    <string name="start_writing_here">यहाँ लिखना शुरू करें…</string>
+    <string name="community">समुदाय</string>
+    <string name="nothing_to_show">दिखाने के लिए कुछ भी नहीं…</string>
+    <string name="create_profile">प्रोफ़ाइल बनाएं</string>
+    <string name="change">परिवर्तन</string>
+    <string name="name">नाम</string>
+    <string name="select_city">शहर चुनें</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="select_currency">मुद्रा चुनें</string>
+    <string name="save">सहेजें</string>
+    <string name="edit_profile">प्रोफ़ाइल संपादित करें</string>
+    <string name="social_network">सोशल नेटवर्क</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="booking">बुकिंग</string>
+    <string name="total_price">कुल कीमत</string>
+    <string name="select_date">तारीख़ चुनें</string>
+    <string name="number_of_tickets">टिकटों की संख्या</string>
+    <string name="contact_name">संपर्क नाम</string>
+    <string name="contact_email">संपर्क ईमेल</string>
+    <string name="contact_phone_number">संपर्क फ़ोन नंबर</string>
+    <string name="additional_requests">अतिरिक्त अनुरोध</string>
+    <string name="book_now">अब बुक करें</string>
+    <string name="book_experience">अनुभव बुक करें</string>
+    <string name="headout">हेडआउट</string>
+    <string name="my_account">मेरा खाता</string>
+    <string name="no_notifications">कोई सूचनाएं नहीं…</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="remove">हटाएं</string>
+    <string name="search">खोजें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="account">खाता</string>
+    <string name="headout_inc">हेडआउट इंक</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="help">मदद</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="terms_of_usage">उपयोग की शर्तें</string>
+    <string name="sign_out">साइन आउट</string>
+    <string name="share_experience_with_community">समुदाय के साथ अनुभव साझा करें</string>
+    <string name="loading">लोड हो रहा है…</string>
+
+    <string name="translate">अनुवाद करें</string>
+    <string name="view_original">मूल देखें</string>
+
+    <string name="add_valid_ticket_number">मान्य टिकट नंबर जोड़ें</string>
+    <string name="booking_progress">बुकिंग…</string>
+    <string name="booking_confirmed">बुकिंग की पुष्टि हो गई है!</string>
+    <string name="booking_message">हम आपका होस्ट करने की उत्साही हैं और एक यादगार अनुभव सुनिश्चित कर रहे हैं। यदि आपके पास कोई प्रश्न हैं या विशेष अनुरोध हैं, तो कृपया हमारे ग्राहक समर्थन से संपर्क करने में संकोच न करें। एक अद्भुत दिन हो!</string>
+    <string name="okay">ठीक है</string>
+    <string name="select_valid_date">मान्य तारीख चुनें</string>
+    <string name="enter_contact_name">संपर्क नाम दर्ज करें</string>
+    <string name="enter_contact_email">संपर्क ईमेल दर्ज करें</string>
+    <string name="enter_valid_phone_number">मान्य फ़ोन नंबर दर्ज करें</string>
+    <string name="select_a_date">तारीख चुनें</string>
+
+    <string name="not_found">नहीं मिला</string>
+    <string name="experience_saved">अनुभव सहेजा गया!</string>
+
+    <string name="upcoming">आगामी</string>
+    <string name="completed">पूर्ण</string>
+    <string name="happening_today">आज हो रहा है!</string>
+    <string name="booking_date">बुकिंग की तारीख</string>
+    <string name="status">स्थिति</string>
+    <string name="contact_number">संपर्क नंबर</string>
+
+    <string name="no_image_selected">कोई छवि चुनी नहीं गई</string>
+    <string name="uploading">अपलोड हो रहा है…</string>
+    <string name="post_submitted_successfully">पोस्ट सफलतापूर्वक जमा हुई!</string>
+    <string name="thanks_for_sharing">साझा करने के लिए धन्यवाद! आपकी पोस्ट अब समीक्षा के अधीन है। एक बार मंजूरी मिलने पर, यह पूरे समुदाय के लिए अगले 24 घंटों में दिखाई देगी। बने रहें!</string>
+    <string name="please_write_your_experience">कृपया अपना अनुभव लिखें</string>
+
+    <string name="getting_info">सूचना प्राप्त की जा रही है…</string>
+    <string name="failed_to_signin">साइन इन करने में विफल</string>
+    <string name="signin_error">साइन इन त्रुटि</string>
+    <string name="error_occurred">त्रुटि हुई</string>
+    <string name="saving_info">सूचना सहेजी जा रही है…</string>
+    <string name="please_enter_your_name">कृपया अपना नाम दर्ज करें</string>
+    <string name="select_preferred_location">पसंदीदा स्थान का चयन करें</string>
+    <string name="select_preferred_language">पसंदीदा भाषा का चयन करें</string>
+    <string name="select_preferred_currency">पसंदीदा मुद्रा का चयन करें</string>
+
+    <string name="updates_will_reflect">अद्यतन कुछ समय में प्रतिबिम्बित होंगे</string>
+    <string name="select_preferred_social_network">पसंदीदा सोशल नेटवर्क का चयन करें</string>
+    <string name="please_enter_username">कृपया उपयोगकर्ता नाम दर्ज करें</string>
+
+    <string name="my_bookings">मेरी बुकिंग</string>
+    <string name="saved_experiences">सहेजी गई अनुभव</string>
+    <string name="removed">हटाया गया</string>
+
+    <string name="sign_out_dialog">साइन आउट!</string>
+    <string name="sign_out_confirmation">क्या आप वाकई साइन आउट करना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="signing_out">साइन आउट हो रहा है…</string>
+
+    <string name="check_internet_connection">कृपया अपना इंटरनेट कनेक्शन जांचें और बाद में पुनः प्रयास करें.</string>
+
+    <string name="edit">संपादित करें</string>
+
+</resources>

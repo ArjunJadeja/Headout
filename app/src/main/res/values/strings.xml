@@ -1,0 +1,106 @@
+<resources>
+
+    <string name="app_name">Headout</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="see_all">See All</string>
+    <string name="share_experience">Share Experience</string>
+    <string name="post">Post</string>
+    <string name="start_writing_here">Start writing here…</string>
+    <string name="community">Community</string>
+    <string name="nothing_to_show">Nothing to show…</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="change">Change</string>
+    <string name="name">Name</string>
+    <string name="select_city">Select City</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="save">Save</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="social_network">Social Network</string>
+    <string name="username">Username</string>
+    <string name="booking">Booking</string>
+    <string name="total_price">Total Price</string>
+    <string name="select_date">Select Date</string>
+    <string name="number_of_tickets">Number of Tickets</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_email">Contact Email</string>
+    <string name="contact_phone_number">Contact Phone Number</string>
+    <string name="additional_requests">Additional Requests</string>
+    <string name="book_now">Book Now</string>
+    <string name="book_experience">Book Experience</string>
+    <string name="headout">Headout</string>
+    <string name="my_account">My Account</string>
+    <string name="no_notifications">No notifications…</string>
+    <string name="notifications">Notifications</string>
+    <string name="remove">Remove</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="headout_inc">Headout Inc</string>
+    <string name="about_us">About Us</string>
+    <string name="help">Help</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_usage">Terms of Usage</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="share_experience_with_community">Share Experience with Community</string>
+    <string name="loading">Loading…</string>
+
+    <string name="translate">Translate</string>
+    <string name="view_original">View Original</string>
+
+    <string name="add_valid_ticket_number">Add valid ticket number</string>
+    <string name="booking_progress">Booking…</string>
+    <string name="booking_confirmed">Booking confirmed!</string>
+    <string name="booking_message">We look forward to hosting you and ensuring a memorable experience. If you have any questions or special requests, please don\'t hesitate to contact our customer support. Have a wonderful day!</string>
+    <string name="okay">Okay</string>
+    <string name="select_valid_date">Select valid date</string>
+    <string name="enter_contact_name">Enter contact name</string>
+    <string name="enter_contact_email">Enter contact email</string>
+    <string name="enter_valid_phone_number">Enter valid phone number</string>
+    <string name="select_a_date">Select a date</string>
+
+    <string name="not_found">Not Found</string>
+    <string name="experience_saved">Experience Saved!</string>
+
+    <string name="upcoming">Upcoming</string>
+    <string name="completed">Completed</string>
+    <string name="happening_today">Happening Today!</string>
+    <string name="booking_date">Booking Date</string>
+    <string name="status">Status</string>
+    <string name="contact_number">Contact Number</string>
+
+    <string name="no_image_selected">No image selected</string>
+    <string name="uploading">Uploading…</string>
+    <string name="post_submitted_successfully">Post Submitted Successfully!</string>
+    <string name="thanks_for_sharing">Thanks for Sharing! Your post is now under review. Once approved, it will become visible to the entire community within the next 24 hours. Stay tuned!</string>
+    <string name="please_write_your_experience">Please write your experience</string>
+
+    <string name="getting_info">Getting info…</string>
+    <string name="failed_to_signin">Failed to Sign In</string>
+    <string name="signin_error">Sign In Error</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="saving_info">Saving info…</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="select_preferred_location">Select preferred location</string>
+    <string name="select_preferred_language">Select preferred language</string>
+    <string name="select_preferred_currency">Select preferred currency</string>
+
+    <string name="updates_will_reflect">Updates will reflect in some time</string>
+    <string name="select_preferred_social_network">Select preferred social network</string>
+    <string name="please_enter_username">Please enter username</string>
+
+    <string name="my_bookings">My Bookings</string>
+    <string name="saved_experiences">Saved Experiences</string>
+    <string name="removed">Removed</string>
+
+    <string name="sign_out_dialog">Sign Out!</string>
+    <string name="sign_out_confirmation">Are you sure you want to sign out?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="signing_out">Signing out…</string>
+
+    <string name="check_internet_connection">Please check your internet connection and try again later.</string>
+
+    <string name="edit">Edit</string>
+
+</resources>

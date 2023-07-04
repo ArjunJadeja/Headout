@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- User Profile Image -->
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/profileImageViewCard"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="@dimen/margin_small"
+        app:cardCornerRadius="6pt"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/profileImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            tools:src="@color/brand_color" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- Name Text View -->
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin_small"
+        android:fontFamily="@font/rubik_medium"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toRightOf="@id/profileImageViewCard"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Arjun Jadeja" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/postedAtTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin_small"
+        android:fontFamily="@font/rubik"
+        android:gravity="left"
+        android:textSize="@dimen/text_smaller"
+        app:layout_constraintBottom_toBottomOf="@id/profileImageViewCard"
+        app:layout_constraintLeft_toRightOf="@id/profileImageViewCard"
+        app:layout_constraintRight_toLeftOf="@id/socialButton"
+        app:layout_constraintTop_toBottomOf="@id/nameTextView"
+        tools:text="12th June 2023" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/socialButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/margin_small"
+        android:background="@null"
+        app:layout_constraintBottom_toBottomOf="@id/postedAtTextView"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/ic_twitter" />
+
+    <!-- Experience Text View -->
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/experienceTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin_small"
+        android:layout_marginTop="@dimen/margin_small"
+        android:fontFamily="@font/rubik"
+        android:gravity="start"
+        android:textSize="@dimen/text_smaller"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/profileImageViewCard"
+        tools:text="Very good experience with Headout" />
+
+    <!-- Translate Text View -->
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/translateTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        android:layout_marginTop="@dimen/margin_smaller"
+        android:fontFamily="@font/rubik_medium"
+        android:text="@string/translate"
+        android:textSize="@dimen/text_smaller"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/experienceTextView" />
+
+    <!-- post images -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/imagesViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_small"
+        android:scrollbars="none"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/translateTextView"
+        app:spanCount="2"
+        tools:itemCount="4"
+        tools:listitem="@layout/image_item" />
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginVertical="@dimen/margin_big"
+        android:background="?colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imagesViewPager" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

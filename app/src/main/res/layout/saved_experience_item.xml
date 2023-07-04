@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/margin_smaller"
+    app:cardCornerRadius="@dimen/card_corner_bigger">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/experienceProfileImage"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="fitXY"
+            app:layout_constraintDimensionRatio="15:9"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@mipmap/app_launcher" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/removeExperienceButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_smaller"
+            android:backgroundTint="?colorOnPrimary"
+            android:fontFamily="@font/rubik"
+            android:padding="0dp"
+            android:text="@string/remove"
+            android:textColor="?colorPrimary"
+            app:layout_constraintRight_toRightOf="@id/experienceProfileImage"
+            app:layout_constraintTop_toTopOf="@id/experienceProfileImage"
+            app:strokeColor="?colorPrimary"
+            app:strokeWidth="1dp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/item_title_textview"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/margin_small"
+            android:layout_marginVertical="@dimen/margin_small"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik_medium"
+            android:lines="2"
+            android:maxLines="2"
+            android:textColor="?colorPrimary"
+            android:textSize="@dimen/text_small"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@+id/experienceProfileImage"
+            app:layout_constraintRight_toRightOf="@+id/experienceProfileImage"
+            app:layout_constraintTop_toBottomOf="@+id/experienceProfileImage"
+            tools:text="Traditional Salt Making, Tenganan Ancient Village and Taman Ujung Water Palace" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>

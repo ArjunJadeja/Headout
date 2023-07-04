@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Headout</string>
+    <string name="no_internet_connection">インターネット接続がありません</string>
+    <string name="see_all">すべて見る</string>
+    <string name="share_experience">経験を共有する</string>
+    <string name="post">投稿する</string>
+    <string name="start_writing_here">ここに書き始める…</string>
+    <string name="community">コミュニティ</string>
+    <string name="nothing_to_show">表示するものがありません…</string>
+    <string name="create_profile">プロファイルを作成する</string>
+    <string name="change">変更する</string>
+    <string name="name">名前</string>
+    <string name="select_city">都市を選択</string>
+    <string name="select_language">言語を選択</string>
+    <string name="select_currency">通貨を選択</string>
+    <string name="save">保存</string>
+    <string name="edit_profile">プロファイルを編集する</string>
+    <string name="social_network">ソーシャルネットワーク</string>
+    <string name="username">ユーザー名</string>
+    <string name="booking">予約</string>
+    <string name="total_price">合計金額</string>
+    <string name="select_date">日付を選択</string>
+    <string name="number_of_tickets">チケットの数</string>
+    <string name="contact_name">連絡先の名前</string>
+    <string name="contact_email">連絡先のメール</string>
+    <string name="contact_phone_number">連絡先の電話番号</string>
+    <string name="additional_requests">追加のリクエスト</string>
+    <string name="book_now">今すぐ予約</string>
+    <string name="book_experience">体験を予約</string>
+    <string name="headout">ヘッドアウト</string>
+    <string name="my_account">マイアカウント</string>
+    <string name="no_notifications">通知はありません…</string>
+    <string name="notifications">通知</string>
+    <string name="remove">削除</string>
+    <string name="search">検索</string>
+    <string name="settings">設定</string>
+    <string name="account">アカウント</string>
+    <string name="headout_inc">Headout Inc</string>
+    <string name="about_us">私たちについて</string>
+    <string name="help">助けて</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="terms_of_usage">利用規約</string>
+    <string name="sign_out">ログアウト</string>
+    <string name="share_experience_with_community">コミュニティと経験を共有する</string>
+    <string name="loading">読み込み中…</string>
+
+    <string name="translate">翻訳</string>
+    <string name="view_original">元を表示</string>
+
+    <string name="add_valid_ticket_number">有効なチケット番号を追加してください</string>
+    <string name="booking_progress">予約中…</string>
+    <string name="booking_confirmed">予約が確定しました！</string>
+    <string name="booking_message">お客様をお迎えし、思い出深い体験を提供することを楽しみにしております。ご質問や特別なリクエストがありましたら、お気軽にカスタマーサポートまでお問い合わせください。素晴らしい一日をお過ごしください！</string>
+    <string name="okay">はい</string>
+    <string name="select_valid_date">有効な日付を選択してください</string>
+    <string name="enter_contact_name">連絡先の名前を入力してください</string>
+    <string name="enter_contact_email">連絡先のメールアドレスを入力してください</string>
+    <string name="enter_valid_phone_number">有効な電話番号を入力してください</string>
+    <string name="select_a_date">日付を選択してください</string>
+
+    <string name="not_found">見つかりません</string>
+    <string name="experience_saved">体験が保存されました！</string>
+
+    <string name="upcoming">今後</string>
+    <string name="completed">完了</string>
+    <string name="happening_today">今日開催！</string>
+    <string name="booking_date">予約日</string>
+    <string name="status">ステータス</string>
+    <string name="contact_number">連絡先の電話番号</string>
+
+    <string name="no_image_selected">画像が選択されていません</string>
+    <string name="uploading">アップロード中…</string>
+    <string name="post_submitted_successfully">投稿が成功しました！</string>
+    <string name="thanks_for_sharing">共有していただきありがとうございます！ あなたの投稿は現在審査中です。承認されると、次の24時間以内に全コミュニティに表示されます。お楽しみに！</string>
+    <string name="please_write_your_experience">あなたの経験を書いてください</string>
+
+    <string name="getting_info">情報を取得中…</string>
+    <string name="failed_to_signin">サインインに失敗しました</string>
+    <string name="signin_error">サインインエラー</string>
+    <string name="error_occurred">エラーが発生しました</string>
+    <string name="saving_info">情報を保存中…</string>
+    <string name="please_enter_your_name">お名前を入力してください</string>
+    <string name="select_preferred_location">好みの場所を選択してください</string>
+    <string name="select_preferred_language">好みの言語を選択してください</string>
+    <string name="select_preferred_currency">好みの通貨を選択してください</string>
+
+    <string name="updates_will_reflect">更新はしばらくして反映されます</string>
+    <string name="select_preferred_social_network">好みのソーシャルネットワークを選択してください</string>
+    <string name="please_enter_username">ユーザー名を入力してください</string>
+
+    <string name="my_bookings">私の予約</string>
+    <string name="saved_experiences">保存された体験</string>
+    <string name="removed">削除されました</string>
+
+    <string name="sign_out_dialog">サインアウト！</string>
+    <string name="sign_out_confirmation">本当にサインアウトしますか？</string>
+    <string name="yes">はい</string>
+    <string name="cancel">キャンセル</string>
+    <string name="signing_out">サインアウト中…</string>
+
+    <string name="check_internet_connection">インターネット接続を確認して、後で再試行してください。</string>
+
+    <string name="edit">編集</string>
+
+</resources>

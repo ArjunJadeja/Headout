@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Headout</string>
+    <string name="no_internet_connection">Sem conexão com a internet</string>
+    <string name="see_all">Ver tudo</string>
+    <string name="share_experience">Compartilhar experiência</string>
+    <string name="post">Publicar</string>
+    <string name="start_writing_here">Comece a escrever aqui…</string>
+    <string name="community">Comunidade</string>
+    <string name="nothing_to_show">Nada para mostrar…</string>
+    <string name="create_profile">Criar perfil</string>
+    <string name="change">Alterar</string>
+    <string name="name">Nome</string>
+    <string name="select_city">Selecione a cidade</string>
+    <string name="select_language">Selecione o idioma</string>
+    <string name="select_currency">Selecione a moeda</string>
+    <string name="save">Salvar</string>
+    <string name="edit_profile">Editar perfil</string>
+    <string name="social_network">Rede social</string>
+    <string name="username">Nome de usuário</string>
+    <string name="booking">Reserva</string>
+    <string name="total_price">Preço total</string>
+    <string name="select_date">Selecione a data</string>
+    <string name="number_of_tickets">Número de ingressos</string>
+    <string name="contact_name">Nome de contato</string>
+    <string name="contact_email">Email de contato</string>
+    <string name="contact_phone_number">Número de telefone de contato</string>
+    <string name="additional_requests">Solicitações adicionais</string>
+    <string name="book_now">Reserve agora</string>
+    <string name="book_experience">Reservar experiência</string>
+    <string name="headout">Headout</string>
+    <string name="my_account">Minha conta</string>
+    <string name="no_notifications">Sem notificações…</string>
+    <string name="notifications">Notificações</string>
+    <string name="remove">Remover</string>
+    <string name="search">Pesquisa</string>
+    <string name="settings">Configurações</string>
+    <string name="account">Conta</string>
+    <string name="headout_inc">Headout Inc</string>
+    <string name="about_us">Sobre nós</string>
+    <string name="help">Ajuda</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="terms_of_usage">Termos de Uso</string>
+    <string name="sign_out">Sair</string>
+    <string name="share_experience_with_community">Compartilhe a experiência com a comunidade</string>
+    <string name="loading">Carregando…</string>
+
+    <string name="translate">Traduzir</string>
+    <string name="view_original">Ver original</string>
+
+    <string name="add_valid_ticket_number">Adicionar número de bilhete válido</string>
+    <string name="booking_progress">Reservando…</string>
+    <string name="booking_confirmed">Reserva confirmada!</string>
+    <string name="booking_message">Estamos ansiosos para hospedá-lo e garantir uma experiência memorável. Se você tiver alguma pergunta ou pedido especial, não hesite em contatar nosso suporte ao cliente. Tenha um ótimo dia!</string>
+    <string name="okay">Está bem</string>
+    <string name="select_valid_date">Selecione uma data válida</string>
+    <string name="enter_contact_name">Insira o nome do contato</string>
+    <string name="enter_contact_email">Insira o email de contato</string>
+    <string name="enter_valid_phone_number">Insira um número de telefone válido</string>
+    <string name="select_a_date">Selecione uma data</string>
+
+    <string name="not_found">Não encontrado</string>
+    <string name="experience_saved">Experiência salva!</string>
+
+    <string name="upcoming">Próximo</string>
+    <string name="completed">Concluído</string>
+    <string name="happening_today">Acontecendo hoje!</string>
+    <string name="booking_date">Data de reserva</string>
+    <string name="status">Status</string>
+    <string name="contact_number">Número de contato</string>
+
+    <string name="no_image_selected">Nenhuma imagem selecionada</string>
+    <string name="uploading">Carregando…</string>
+    <string name="post_submitted_successfully">Postagem enviada com sucesso!</string>
+    <string name="thanks_for_sharing">Obrigado por compartilhar! Sua postagem está agora em análise. Uma vez aprovada, ficará visível para toda a comunidade nas próximas 24 horas. Fique ligado!</string>
+    <string name="please_write_your_experience">Por favor, escreva sua experiência</string>
+
+    <string name="getting_info">Obtendo informações…</string>
+    <string name="failed_to_signin">Falha ao entrar</string>
+    <string name="signin_error">Erro de entrada</string>
+    <string name="error_occurred">Ocorreu um erro</string>
+    <string name="saving_info">Salvando informações…</string>
+    <string name="please_enter_your_name">Por favor, digite seu nome</string>
+    <string name="select_preferred_location">Selecione a localização preferida</string>
+    <string name="select_preferred_language">Selecione o idioma preferido</string>
+    <string name="select_preferred_currency">Selecione a moeda preferida</string>
+
+    <string name="updates_will_reflect">As atualizações serão refletidas em algum momento</string>
+    <string name="select_preferred_social_network">Selecione a rede social preferida</string>
+    <string name="please_enter_username">Por favor, insira o nome de usuário</string>
+
+    <string name="my_bookings">Minhas reservas</string>
+    <string name="saved_experiences">Experiências salvas</string>
+    <string name="removed">Removido</string>
+
+    <string name="sign_out_dialog">Sair!</string>
+    <string name="sign_out_confirmation">Tem certeza de que deseja sair?</string>
+    <string name="yes">Sim</string>
+    <string name="cancel">Cancelar</string>
+    <string name="signing_out">Saindo…</string>
+
+    <string name="check_internet_connection">Por favor, verifique sua conexão com a internet e tente novamente mais tarde.</string>
+
+    <string name="edit">Editar</string>
+
+</resources>

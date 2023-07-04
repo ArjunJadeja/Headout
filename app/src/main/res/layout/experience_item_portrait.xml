@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/margin_smaller"
+    android:layout_marginTop="@dimen/margin_smaller"
+    app:cardCornerRadius="@dimen/card_corner_bigger"
+    app:cardElevation="1dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/experienceProfileCardView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+            app:cardCornerRadius="@dimen/card_corner_bigger"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/experienceProfileImage"
+                android:layout_width="170dp"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@mipmap/app_launcher" />
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/item_title_textview"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/margin_smaller"
+            android:layout_marginVertical="@dimen/margin_small"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik_medium"
+            android:lines="2"
+            android:maxLines="2"
+            android:textColor="?colorPrimary"
+            android:textSize="@dimen/text_small"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="@+id/experienceProfileCardView"
+            app:layout_constraintRight_toRightOf="@+id/experienceProfileCardView"
+            app:layout_constraintTop_toBottomOf="@+id/experienceProfileCardView"
+            tools:text="Traditional Salt Making, Tenganan Ancient Village and Taman Ujung Water Palace" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/margin_smaller"
+    app:cardCornerRadius="@dimen/card_corner_bigger">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/bookedExperienceLay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/experienceImageViewCard"
+                android:layout_width="@dimen/smaller_image_dimen"
+                android:layout_height="@dimen/smaller_image_dimen"
+                app:cardCornerRadius="@dimen/card_corner_bigger"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/experienceImageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    tools:src="@color/brand_color" />
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/experienceTextView"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginLeft="@dimen/margin_small"
+                android:ellipsize="end"
+                android:fontFamily="@font/rubik"
+                android:gravity="start"
+                android:maxLines="3"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toRightOf="@id/experienceImageViewCard"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="Traditional Salt Making, Tenganan Ancient Village and Taman Ujung Water Palace" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/dateTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_smaller"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik"
+            android:gravity="start"
+            android:textSize="@dimen/text_smaller"
+            tools:text="Date : 18th June 2023" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/totalTicketsTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_smaller"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik"
+            android:gravity="start"
+            android:textSize="@dimen/text_smaller"
+            tools:text="Number of Tickets : 2" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/statusTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_smaller"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik"
+            android:gravity="start"
+            android:textSize="@dimen/text_smaller"
+            tools:text="Status : Completed" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/contactNameTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_smaller"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik"
+            android:gravity="start"
+            android:textSize="@dimen/text_smaller"
+            tools:text="Contact Name : Arjun Jadeja" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/contactEmailTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_smaller"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik"
+            android:gravity="start"
+            android:textSize="@dimen/text_smaller"
+            tools:text="Contact Email : jarjun264@gmail.com" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/contactPhoneTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_smaller"
+            android:ellipsize="end"
+            android:fontFamily="@font/rubik"
+            android:gravity="start"
+            android:textSize="@dimen/text_smaller"
+            tools:text="Contact Number : 8888888888" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/shareExperienceButton"
+            style="@style/DefaultButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:text="@string/share_experience_with_community"
+            android:visibility="gone" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</com.google.android.material.card.MaterialCardView>

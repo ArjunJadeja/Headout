@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DefaultButton">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/rubik</item>
+        <item name="android:paddingVertical">12dp</item>
+        <item name="cornerRadius">4pt</item>
+    </style>
+
+</resources>
