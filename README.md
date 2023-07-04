@@ -6,24 +6,22 @@
 
 ## Preview
 <p float="left">
-  <img src="assets/dark_one.jpg" width="160" /> 
-  <img src="assets/dark_two.jpg" width="160" /> 
-  <img src="assets/dark_three.jpg" width="160" /> 
-  <img src="assets/dark_four.jpg" width="160" /> 
-  <img src="assets/dark_five.jpg" width="160" /> 
+  <img src="assets/dark_one.jpg" width="200" /> 
+  <img src="assets/dark_two.jpg" width="200" /> 
+  <img src="assets/dark_three.jpg" width="200" /> 
+  <img src="assets/dark_five.jpg" width="200" /> 
 
-  <img src="assets/light_one.jpg" width="160" /> 
-  <img src="assets/light_two.jpg" width="160" /> 
-  <img src="assets/light_three.jpg" width="160" /> 
-  <img src="assets/light_four.jpg" width="160" /> 
-  <img src="assets/light_five.jpg" width="160" /> 
+  <img src="assets/light_one.jpg" width="200" /> 
+  <img src="assets/light_two.jpg" width="200" /> 
+  <img src="assets/light_three.jpg" width="200" /> 
+  <img src="assets/light_five.jpg" width="200" /> 
 </p>
 
 ## Demo
-Watch [App Demo](https://www.youtube.com/watch?v=Faj8BKEis_I) on YouTube.
+Watch [App Demo](https://www.youtube.com/watch?v=Faj8BKEis_I) on Youtube.
 
 ## Download
-Go to the [Releases](https://github.com/ArjunJadeja/Headout/releases) to download the latest APK.
+Check out [Releases](https://github.com/ArjunJadeja/Headout/releases) to download the latest APK.
 
 ## Features
 - **Caching** - Implemented for reducing network calls and enhancing performance.
