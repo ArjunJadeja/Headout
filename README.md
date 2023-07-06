@@ -35,7 +35,7 @@ Check out [Releases](https://github.com/ArjunJadeja/Headout/releases) to downloa
 - **Dark Mode** - Reduce screen glare and enhance the overall user interface aesthetics.
 
 ## Tech stack & Open-source libraries
-- **Minimum SDK level 21**
+- **Minimum SDK level 26**
 - [**Kotlin**](https://kotlinlang.org/) - Modern, concise, and safe programming language.
 - [**Coroutines**](https://github.com/Kotlin/kotlinx.coroutines) - A concurrency design pattern to simplify code that executes asynchronously.
 - **Jetpack**
