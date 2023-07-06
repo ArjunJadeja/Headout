@@ -17,7 +17,7 @@
 
 ## App User Flow
 <p float="left">
-  <img src="assets/user_flow_diagram" width="800"/> 
+  <img src="assets/user_flow_diagram.png" width="800"/> 
 </p>
 
 ## Demo
