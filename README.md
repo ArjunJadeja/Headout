@@ -4,17 +4,20 @@
 🎨 Headout's android app redesigned. The world's best experiences curated just for you! ✨
 </p>
 
-## Preview
+## App UI 
+- Light mode
 <p float="left">
-  <img src="assets/dark_one.jpg" width="200" /> 
-  <img src="assets/dark_two.jpg" width="200" /> 
-  <img src="assets/dark_three.jpg" width="200" /> 
-  <img src="assets/dark_five.jpg" width="200" /> 
+  <img src="assets/light_theme_ui.png" width="800"/> 
+</p>
 
-  <img src="assets/light_one.jpg" width="200" /> 
-  <img src="assets/light_two.jpg" width="200" /> 
-  <img src="assets/light_three.jpg" width="200" /> 
-  <img src="assets/light_five.jpg" width="200" /> 
+- Dark mode
+<p float="left">
+  <img src="assets/dark_theme_ui.png" width="800"/> 
+</p>
+
+## App User Flow
+<p float="left">
+  <img src="assets/user_flow_diagram" width="800"/> 
 </p>
 
 ## Demo
