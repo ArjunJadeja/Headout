@@ -21,7 +21,7 @@
 </p>
 
 ## Demo
-Watch [App Demo](https://youtu.be/vdmLdWthfpU) on Youtube.
+Watch [App Demo](https://youtu.be/watch?v=vdmLdWthfpU) on Youtube.
 
 ## Download
 Check out [Releases](https://github.com/ArjunJadeja/Headout/releases) to download the latest APK.
